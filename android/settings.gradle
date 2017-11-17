@@ -1,0 +1,3 @@
+rootProject.name = 'StarWarsCharacters'
+
+include ':app'
